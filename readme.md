@@ -1,4 +1,4 @@
-O que estou aprendendo em Python
+O que aprendemos em Python:
 
 Lista 1 – Conceitos básicos e condições
 
