@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+    inteiro metros, centimetros  
+    escreva ("digite o valor do metro: ")
+    leia (metros)
+    centimetros = metros * 100
+    escreva ("o valor em centimetros  é: " + centimetros) 
+    
+  }
+}

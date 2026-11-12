@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    inteiro numero, dobro, triplo
+    escreva ("digite um número ")
+    leia (numero)
+    dobro = numero *  2 
+    triplo = numero * 3   
+    escreva ("o dobro do numero é: " + dobro + ", e o triplo é: " + triplo)
+    
+  }
+}

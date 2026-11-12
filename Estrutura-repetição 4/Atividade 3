@@ -1,0 +1,16 @@
+desgasteTotal = 0
+contador = 0
+desgaste = 7
+
+while desgasteTotal < 500:
+
+    contador += 1
+
+    desgasteTotal += desgaste
+
+    if contador % 70 == 0:
+        desgaste = 10
+
+print("A máquina quebrou")
+print("Durou ", contador, " ciclos")
+print("Desgaste final: ", desgasteTotal)    

@@ -1,0 +1,12 @@
+programa {
+  funcao inicio() {
+    inteiro numero, altura , largura
+    escreva ("digite a largura: ")
+    leia (largura)
+    escreva ("digite a altura: ") 
+    leia (altura)  
+    numero = altura + largura
+    escreva("A soma dos numeros é : " + numero)
+
+  }
+}
